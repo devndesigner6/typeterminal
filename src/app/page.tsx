@@ -553,7 +553,7 @@ export default function HomePage() {
               
               <div className="flex justify-center gap-3">
                 <a 
-                  href="https://github.com/pranav718/typingterminal"
+                  href="https://github.com/devndesigner6/typeterminal"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="hover:text-[#41ff5f] underline decoration-dotted underline-offset-2 transition-all"
